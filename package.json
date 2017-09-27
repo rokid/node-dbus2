@@ -1,7 +1,7 @@
 {
   "name": "dbus",
   "version": "1.0.0",
-  "description": "A D-Bus binding for Node",
+  "description": "dbus binding for Node.js",
   "author": "Shouqun Liu <liushouqun@gmail.com>",
   "contributors": [
     "Fred Chien <cfsghost@gmail.com>",
@@ -10,18 +10,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Shouqun/node-dbus.git"
+    "url": "git://github.com/Rokid/node-dbus.git"
   },
-  "engines": {
-    "node": ">= 0.12.0"
-  },
-  "main": "./lib/dbus",
+  "main": "./lib/dbus.js",
   "scripts": {
     "install": "node-gyp configure build",
     "test": "tap test/**/*.test.js"
   },
   "dependencies": {
-    "nan": "^2.1.0"
+    "nan": "2.1.0"
   },
   "os": [
     "!win32"
