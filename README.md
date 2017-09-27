@@ -1,5 +1,5 @@
-# node-dbus  
-node-dbus is a D-Bus binding for Node.js.
+# node-dbus2
+node-dbus2 is the DBus binding for Node.js.
 
 ## Installation
 

@@ -1,16 +1,17 @@
 {
-  "name": "dbus",
-  "version": "1.0.0",
+  "name": "dbus2",
+  "version": "1.0.1",
   "description": "dbus binding for Node.js",
   "author": "Shouqun Liu <liushouqun@gmail.com>",
   "contributors": [
     "Fred Chien <cfsghost@gmail.com>",
-    "Bryan Burgers <bryan@burgers.io>"
+    "Bryan Burgers <bryan@burgers.io>",
+    "Yorkie Liu <yorkiefixer@gmail.com>"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Rokid/node-dbus.git"
+    "url": "git://github.com/Rokid/node-dbus2.git"
   },
   "main": "./lib/dbus.js",
   "scripts": {
