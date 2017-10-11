@@ -1,6 +1,6 @@
 {
   "name": "dbus2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dbus binding for Node.js",
   "author": "Shouqun Liu <liushouqun@gmail.com>",
   "contributors": [
