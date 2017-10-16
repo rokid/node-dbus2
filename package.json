@@ -1,6 +1,6 @@
 {
   "name": "dbus2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dbus binding for Node.js",
   "author": "Shouqun Liu <liushouqun@gmail.com>",
   "contributors": [
@@ -19,7 +19,7 @@
     "test": "tap test/**/*.test.js"
   },
   "dependencies": {
-    "nan": "2.1.0"
+    "nan": "^2.1.0"
   },
   "os": [
     "!win32"
